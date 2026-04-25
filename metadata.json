@@ -1,0 +1,6 @@
+{
+  "name": "DealsPulse",
+  "description": "Discover the best local deals and offers near you instantly.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
